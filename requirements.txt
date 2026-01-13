@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit-folium
+torch
+joblib
+transformers
+nltk
+google-generativeai
