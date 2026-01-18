@@ -1,9 +1,12 @@
 streamlit
 pandas
-folium
-streamlit-folium
 torch
 joblib
 transformers
 nltk
+folium
+streamlit-folium
+requests
 google-generativeai
+scikit-learn
+
